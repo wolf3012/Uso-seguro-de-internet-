@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contacto | Uso Seguro del Internet</title>
+  <link rel="stylesheet" href="estilos.css" />
+</head>
+<body>
+<header>
+  <h1>Contacto</h1>
+</header>
+<nav>
+  <a href="index.html">Inicio</a>
+  <a href="riesgos.html">Riesgos</a>
+  <a href="consejos.html">Consejos</a>
+  <a href="contacto.html">Contacto</a>
+</nav>
+<section>
+  <h2>Contáctanos</h2>
+  <p>¿Tienes preguntas o sugerencias? Escríbenos a:</p>
+  <p><strong>seguridad@ejemplo.com</strong></p>
+</section>
+<footer>
+  <p>&copy; 2025 Uso Seguro del Internet</p>
+</footer>
+</body>
+</html>
